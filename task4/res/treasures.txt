@@ -1,0 +1,6 @@
+407823;Gold ring;1000
+743739;Iron ring;50
+388384;Stone crown;1200
+126518;Iron crown;1950
+874151;Gold crown;3000
+874151;Gold crown;3000
