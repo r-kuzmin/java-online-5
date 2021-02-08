@@ -1,4 +1,4 @@
-package by.jonline.oop.task5.bean;
+package by.epam.training.task5.bean;
 
 public class SimpleBouquet extends Bouquet {
 

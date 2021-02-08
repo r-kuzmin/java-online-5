@@ -1,4 +1,4 @@
-package by.jonline.oop.task4.dao;
+package by.epam.training.task4.dao;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -12,7 +12,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-import by.jonline.oop.task4.bean.Treasure;
+import by.epam.training.task4.bean.Treasure;
 
 /**
  * Хранилище информации о сокровищах в текстовом формате.

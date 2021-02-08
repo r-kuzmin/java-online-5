@@ -1,4 +1,4 @@
-package by.jonline.oop.task4.bean;
+package by.epam.training.task4.bean;
 
 import java.io.Serializable;
 

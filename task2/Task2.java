@@ -1,4 +1,4 @@
-package by.jonline.oop.task2;
+package by.epam.training.task2;
 
 public class Task2 {
 

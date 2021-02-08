@@ -1,4 +1,4 @@
-package by.jonline.oop.task4.logic;
+package by.epam.training.task4.logic;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -6,9 +6,9 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import by.jonline.oop.task4.bean.Treasure;
-import by.jonline.oop.task4.dao.TextTreasureDao;
-import by.jonline.oop.task4.dao.TreasureDao;
+import by.epam.training.task4.bean.Treasure;
+import by.epam.training.task4.dao.TextTreasureDao;
+import by.epam.training.task4.dao.TreasureDao;
 
 public class TreasureCave {
 	

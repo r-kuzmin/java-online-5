@@ -1,4 +1,4 @@
-package by.jonline.oop.task2;
+package by.epam.training.task2;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package by.jonline.oop.task1;
+package by.epam.training.task1;
 
 import java.util.HashSet;
 import java.util.Set;

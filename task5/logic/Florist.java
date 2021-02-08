@@ -1,6 +1,6 @@
-package by.jonline.oop.task5.logic;
+package by.epam.training.task5.logic;
 
-import by.jonline.oop.task5.bean.Bouquet;
+import by.epam.training.task5.bean.Bouquet;
 
 public interface Florist {
 

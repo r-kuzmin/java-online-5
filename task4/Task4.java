@@ -1,13 +1,13 @@
-package by.jonline.oop.task4;
+package by.epam.training.task4;
 
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.LinkOption;
 import java.nio.file.Path;
 
-import by.jonline.oop.task4.bean.Treasure;
-import by.jonline.oop.task4.logic.TreasureCave;
-import by.jonline.oop.task4.view.Console;
+import by.epam.training.task4.bean.Treasure;
+import by.epam.training.task4.logic.TreasureCave;
+import by.epam.training.task4.view.Console;
 
 /**
  * Создать программу, позволяющую обрабатывать сведения о 100 сокровищах в

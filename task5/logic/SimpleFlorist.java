@@ -1,11 +1,11 @@
-package by.jonline.oop.task5.logic;
+package by.epam.training.task5.logic;
 
-import by.jonline.oop.task5.bean.Flower;
-import by.jonline.oop.task5.bean.SimpleBouquet;
-import by.jonline.oop.task5.bean.Wrapping;
-import by.jonline.oop.task5.enumer.Colors;
-import by.jonline.oop.task5.enumer.FlowerType;
-import by.jonline.oop.task5.enumer.WrappingType;
+import by.epam.training.task5.bean.Flower;
+import by.epam.training.task5.bean.SimpleBouquet;
+import by.epam.training.task5.bean.Wrapping;
+import by.epam.training.task5.enumer.Colors;
+import by.epam.training.task5.enumer.FlowerType;
+import by.epam.training.task5.enumer.WrappingType;
 
 public class SimpleFlorist implements Florist {
 

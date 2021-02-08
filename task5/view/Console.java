@@ -1,10 +1,10 @@
-package by.jonline.oop.task5.view;
+package by.epam.training.task5.view;
 
-import by.jonline.oop.task5.bean.Bouquet;
-import by.jonline.oop.task5.bean.Flower;
-import by.jonline.oop.task5.bean.Wrapping;
-import by.jonline.oop.task5.enumer.Colors;
-import by.jonline.oop.task5.enumer.FlowerType;
+import by.epam.training.task5.bean.Bouquet;
+import by.epam.training.task5.bean.Flower;
+import by.epam.training.task5.bean.Wrapping;
+import by.epam.training.task5.enumer.Colors;
+import by.epam.training.task5.enumer.FlowerType;
 
 public class Console {
 

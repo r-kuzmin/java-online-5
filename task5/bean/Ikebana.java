@@ -1,4 +1,4 @@
-package by.jonline.oop.task5.bean;
+package by.epam.training.task5.bean;
 
 /**
  * Икебана должна содержать не более 10 цветов одного типа и не более 2 различных

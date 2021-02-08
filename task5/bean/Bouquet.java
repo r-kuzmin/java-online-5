@@ -1,11 +1,11 @@
-package by.jonline.oop.task5.bean;
+package by.epam.training.task5.bean;
 
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 
-import by.jonline.oop.task5.enumer.Colors;
-import by.jonline.oop.task5.enumer.FlowerType;
+import by.epam.training.task5.enumer.Colors;
+import by.epam.training.task5.enumer.FlowerType;
 
 public abstract class Bouquet extends ArrayList<Flower> {
 

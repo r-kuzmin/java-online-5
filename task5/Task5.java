@@ -1,10 +1,10 @@
-package by.jonline.oop.task5;
+package by.epam.training.task5;
 
-import by.jonline.oop.task5.bean.Bouquet;
-import by.jonline.oop.task5.logic.Florist;
-import by.jonline.oop.task5.logic.IkebanaMaster;
-import by.jonline.oop.task5.logic.SimpleFlorist;
-import by.jonline.oop.task5.view.Console;
+import by.epam.training.task5.bean.Bouquet;
+import by.epam.training.task5.logic.Florist;
+import by.epam.training.task5.logic.IkebanaMaster;
+import by.epam.training.task5.logic.SimpleFlorist;
+import by.epam.training.task5.view.Console;
 
 /**
  * Реализовать приложение, позволяющее создавать цветочные композиции (объект,

@@ -1,8 +1,8 @@
-package by.jonline.oop.task4.dao;
+package by.epam.training.task4.dao;
 
 import java.util.List;
 
-import by.jonline.oop.task4.bean.Treasure;
+import by.epam.training.task4.bean.Treasure;
 
 public interface TreasureDao {
 

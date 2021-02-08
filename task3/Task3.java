@@ -1,4 +1,4 @@
-package by.jonline.oop.task3;
+package by.epam.training.task3;
 
 /**
  * Создать класс Календарь с внутренним классом, с помощью объектов которого

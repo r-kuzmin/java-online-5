@@ -1,8 +1,8 @@
-package by.jonline.oop.task4.view;
+package by.epam.training.task4.view;
 
 import java.util.List;
 
-import by.jonline.oop.task4.bean.Treasure;
+import by.epam.training.task4.bean.Treasure;
 
 public class Console {
 

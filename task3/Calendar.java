@@ -1,4 +1,4 @@
-package by.jonline.oop.task3;
+package by.epam.training.task3;
 
 import java.util.ArrayList;
 import java.util.GregorianCalendar;

@@ -1,7 +1,7 @@
-package by.jonline.oop.task5.bean;
+package by.epam.training.task5.bean;
 
-import by.jonline.oop.task5.enumer.Colors;
-import by.jonline.oop.task5.enumer.WrappingType;
+import by.epam.training.task5.enumer.Colors;
+import by.epam.training.task5.enumer.WrappingType;
 
 public class Wrapping {
 

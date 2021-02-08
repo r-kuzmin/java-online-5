@@ -1,4 +1,4 @@
-package by.jonline.oop.task5.enumer;
+package by.epam.training.task5.enumer;
 
 public enum Colors {
 	RED("Красный", "Красная"),
